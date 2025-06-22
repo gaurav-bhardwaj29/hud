@@ -4,7 +4,7 @@ Simple transparent HUD showing CPU%, swap used and idle time.
 
 ## Installation
 
-1. Download the latest release from the [Releases page](https://github.com/gaurav-bhardwaj29/hud/releases)
+1. Download the latest release from the [Releases page](https://github.com/gaurav-bhardwaj29/hud.spoon/releases)
 2. Double-click the downloaded `.spoon` file to install it in your Hammerspoon directory
 3. Add the following to your `~/.hammerspoon/init.lua`:
 
